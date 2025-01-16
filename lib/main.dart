@@ -22,8 +22,4 @@ class MyApp extends StatelessWidget {
   }
 }
 
-// 페이지 단위의 위젯을 만들어 보자 ==> 클래스로
-// 우리들의 규칙 2 <-- Scaffold
-// end of profilePage
-
-// 클래스로 만들어 보자.
+// 프로필 카운트인포 위젯 만들어 보기
